@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "게을러지지 않고싶은"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이희명"
-description              : "숭실대 22학번 컴퓨터학부"
+name                     : 
+description              : 
 url                      : "https://dlgmlaud0530.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이희명"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "뭐라도해야지"
+  location         : 
   email            :
   links:
     - label: "Email"
